@@ -15,4 +15,14 @@ this value is related to the transmittance or reflectance of the object.  The va
 ![image](https://github.com/oraclBH/RGB2HSV-RGB2LAB/blob/main/Screenshots/HSV.png)
 
 
+# LAB color mode  
+
+Lab color mode, consisting of a brightness channel and two color component channels.  
+ 
+Lab is composed of three elements, one is brightness (L), the L component is used to represent the brightness of pixels, the value range is [0,100], representing from pure black to pure white;  
+ 
+A and B are two color channels.  A includes colors ranging from dark green (low brightness value) to gray (medium brightness value) to bright pink (high brightness value), ranging from [127, -128];  
+ 
+B ranges from bright blue (low brightness value) to gray (medium brightness value) to yellow (high brightness value) in the range of [127, -128].  
+
 ![image](https://github.com/oraclBH/RGB2HSV-RGB2LAB/blob/main/Screenshots/lab.png)
